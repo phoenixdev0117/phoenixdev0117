@@ -27,6 +27,3 @@ Experienced in building scalable, responsive web and mobile solutions.
 - Certified Shopify Developer  
 - Flutter Certified Developer  
 
----
-
-I’m passionate about delivering high-quality solutions and exploring new technologies.<br> Check out my repositories to see my work!
