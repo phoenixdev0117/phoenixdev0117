@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Phoenix Dev
 
-<!--
-**phoenixdev0117/phoenixdev0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 **Senior Full-Stack & E-Commerce Developer**  
+Experienced in building scalable, responsive web and mobile solutions. 
+<br/>Specializing in modern front-end frameworks, back-end technologies, e-commerce platforms, and blockchain integration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Tech Stack**
+- **Frontend**: React.js, Vue.js, TypeScript, Tailwind CSS  
+- **Backend**: Node.js, RESTful APIs, GraphQL, MongoDB, PostgreSQL  
+- **E-Commerce**: Shopify, WooCommerce, Magento  
+- **Blockchain**: Web3.js, NFT, DEX, DeFi SDK integrating 
+
+---
+
+### 📈 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phoenixdev0117&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixdev0117&layout=compact&theme=radical)
+
+---
+
+### 💡 **Certifications**
+- AWS Certified Developer – Associate  
+- Microsoft Certified: Azure Fundamentals  
+- Professional Scrum Master (PSM I)  
+- Certified Shopify Developer  
+- Flutter Certified Developer  
+
+---
+
+I’m passionate about delivering high-quality solutions and exploring new technologies.<br> Check out my repositories to see my work!
