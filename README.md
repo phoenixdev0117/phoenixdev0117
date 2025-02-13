@@ -14,7 +14,7 @@ Experienced in building scalable, responsive web and mobile solutions.
 
 ## 📈 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phoenixdev0117&show_icons=true&theme=radical)      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixdev0117&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phoenixdev0117&show_icons=true&theme=radical&timestamp={current_time})      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixdev0117&layout=compact&theme=radical&timestamp={current_time})
 
 ---
 
