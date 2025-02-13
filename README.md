@@ -21,7 +21,7 @@ Experienced in building scalable, responsive web and mobile solutions.
 ## 💡 **Certifications**
 - AWS Certified Developer – Associate  
 - Microsoft Certified: Azure Fundamentals  
-- Professional Scrum Master (PSM I)  
+- Professional Scrum Master 
 - Certified Shopify Developer  
 - Flutter Certified Developer  
 
