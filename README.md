@@ -5,8 +5,8 @@ Experienced in building scalable, responsive web and mobile solutions.
 ---
 
 ## 🛠️ **Tech Stack**
-- **Frontend**: React.js, Vue.js, TypeScript, Tailwind CSS  
-- **Backend**: Node.js, RESTful APIs, GraphQL, MongoDB, PostgreSQL  
+- **Frontend**: React.js, Next.js, Nuxt.js, Vue.js, TypeScript, Tailwind CSS  
+- **Backend**: Node.js, Nest.js, RESTful APIs, GraphQL, MongoDB, PostgreSQL  
 - **E-Commerce**: Shopify, WooCommerce, Magento  
 - **Blockchain**: Web3.js, NFT, DEX, DeFi SDK integrating 
 
